@@ -1,5 +1,5 @@
 - 👋 Hey there, I’m Ariel
-- 👀 I’m interested in full stack development, web, integrations, anything tech related.
+- 👀 I’m interested in building tools to help increase people's productivity.
 
 <!---
 ariel-diaz-dev/ariel-diaz-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
