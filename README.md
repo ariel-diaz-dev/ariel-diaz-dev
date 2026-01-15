@@ -1,6 +1,6 @@
 Hi there! 
 
-Check out my latest project: https://fishingjournal.net/
+Check out my latest personal project: https://fishingjournal.net/
 
 Ariel.
 
